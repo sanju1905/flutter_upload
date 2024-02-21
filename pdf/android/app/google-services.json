@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333296051495",
+    "project_id": "pdfupload-15fdd",
+    "storage_bucket": "pdfupload-15fdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333296051495:android:ac43e510730d4c0231b502",
+        "android_client_info": {
+          "package_name": "com.example.pdf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOaa46Sb2GR3yNlnuWa-uOrWmxtuhqlsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
